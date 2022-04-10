@@ -17,3 +17,6 @@ I'm in master branch.
 I'm in Development branch
 
 I'm in master branch and testing git stash command.
+
+
+I'm in stage branch to check cherry-pick command.
