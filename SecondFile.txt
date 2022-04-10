@@ -20,3 +20,5 @@ I'm in master branch and testing git stash command.
 
 
 I'm in stage branch to check cherry-pick command.
+
+this file is updated to check the cherry-pick command properly.
